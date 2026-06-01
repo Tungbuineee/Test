@@ -24,13 +24,11 @@ int main()
     SV a;
     scanf("%s", a.MaSV);
     getchar();
-    fgets(a.ten, sizeof(a.ten), stdin);
+    //fgets(a.ten, sizeof(a.ten), stdin);
     scanf("%s", a.lop);
     // scanf("%s", a.lop);
     // printf("%s %s %lf %s\n", a.MaSV, a.ten, a.gpa, a.lop);
     printf("helo tui la tui\n");
-    printf("%s\n%s\n%s", a.MaSV, a.ten, a.lop);
-    printf("Test ok roi nhe");
-    printf("Thay doi tiep");    
+    printf("\n%s %s %s", a.MaSV, a.ten, a.lop);
     return 0;
 }
