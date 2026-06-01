@@ -31,5 +31,6 @@ int main()
     printf("helo tui la tui\n");
     printf("%s\n%s\n%s", a.MaSV, a.ten, a.lop);
     printf("Test ok");
+    printf("Thay doi tiep");    
     return 0;
 }
