@@ -30,5 +30,6 @@ int main()
     // printf("%s %s %lf %s\n", a.MaSV, a.ten, a.gpa, a.lop);
     printf("helo tui la tui\n");
     printf("%s\n%s\n%s", a.MaSV, a.ten, a.lop);
+    printf("Test ok");
     return 0;
 }
